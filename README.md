@@ -7,7 +7,7 @@
 # agar suport di device kalian silakan perhatikan versi python di device kalian,untuk melihat versi python kalian silakan ketik:
 $ python --version
 
-# CARA MENJALANKAN di versi python 3.11.6  :
+# CARA MENJALANKAN di device 64 bit versi python 3.11.6  :
 
 $ git clone https://github.com/Dwi-Yantti/simple
 
@@ -19,7 +19,7 @@ $ chmod +x run
 
 $ ./run
 
-# CARA MENJALANKAN di versi python 3.10.13   :
+# CARA MENJALANKAN di device 32 bit versi python 3.11.6   :
 
 $ git clone https://github.com/Dwi-Yantti/simple
 
@@ -27,6 +27,6 @@ $ cd simple
 
 $ git pull
 
-$ chmod +x run2
+$ chmod +x run32
 
-$ ./run2
+$ ./run32
