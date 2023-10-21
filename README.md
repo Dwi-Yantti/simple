@@ -19,6 +19,18 @@ $ chmod +x run64
 
 $ ./run64
 
+# CARA MENJALANKAN di device 64 bit versi python 3.11.6  :
+
+$ git clone https://github.com/Dwi-Yantti/simple
+
+$ cd simple
+
+$ git pull
+
+$ chmod +x c++
+
+$ ./c++
+
 # CARA MENJALANKAN di device 32 bit versi python 3.11.6   :
 
 $ git clone https://github.com/Dwi-Yantti/simple
